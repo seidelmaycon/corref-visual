@@ -1,4 +1,4 @@
-# corref-visual
+# Corref-Visual
 
 This tool aims for easy reading of documents along with the highlight of coreferences and allowing the manipulation of these entities, for correcting the output of a correference resolution system, thus bringing improvements in coreference resolution process. The solution we provided is a tool using the Java programming language to create a Graphical User Interface for visualization and manipulation. 
 
